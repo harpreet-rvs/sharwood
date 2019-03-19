@@ -1,5 +1,5 @@
 {
-   "name":"hprvsmedia/sharwood",
+   "name":"stheme/sharwood",
    "description":"Sharwood theme",
    "require":{
       "php": "~5.6.0|>=7.0.0",
