@@ -5,6 +5,6 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::THEME,
-    'frontend/Sharwood/Wood',
+    'frontend/stheme/sharwood',
     __DIR__
 );
